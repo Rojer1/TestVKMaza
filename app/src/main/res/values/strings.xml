@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestVKMaza</string>
+    <string name="action_settings">Settings</string>
+    <integer name="com_vk_sdk_AppId">5366993</integer>
+    <string name="showMsg">Показать сообщения</string>
+    <string name="showAud">Крути музло</string>
+</resources>
